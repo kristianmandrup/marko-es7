@@ -1,0 +1,44 @@
+{
+  "name": "marko-es7",
+  "version": "1.0.0",
+  "description": "Marko tags using ES7",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "marko-es7"
+  },
+  "author": "Kristian Mandrup <kmandrup@gmail.com> (https://github.com/kristianmandrup)",
+  "files": [
+    "dist"
+  ],
+  "main": "index.js",
+  "keywords": [
+    "marko",
+    "es7"
+  ],
+  "scripts": {
+    "mocha": "mocha --compilers js:babel/register",
+    "test": "gulp",
+    "prepublish": "gulp prepublish"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "babel-core": "^5.5.0",
+    "gulp": "^3.6.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-coveralls": "^0.1.0",
+    "gulp-exclude-gitignore": "^1.0.0",
+    "gulp-istanbul": "^0.9.0",
+    "gulp-jscs": "^1.1.0",
+    "gulp-jshint": "^1.5.3",
+    "gulp-mocha": "^2.0.0",
+    "gulp-nsp": "^0.4.5",
+    "gulp-plumber": "^1.0.0",
+    "jshint-stylish": "^1.0.0"
+  },
+  "dependencies": {
+    "marko": "^2.7.22",
+    "marko-widgets": "^5.0.0"
+  }
+}
