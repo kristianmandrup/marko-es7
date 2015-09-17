@@ -1,7 +1,7 @@
 {
   "name": "marko-es7",
-  "version": "1.0.0",
-  "description": "Marko tags using ES7",
+  "version": "0.0.1",
+  "description": "experimental marko tag definition via Class and ES7 decorator",
   "homepage": "",
   "repository": {
     "type": "git",
