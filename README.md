@@ -1,6 +1,8 @@
 marko-es7 [![NPM version](https://badge.fury.io/js/marko-es7.svg)](https://npmjs.org/package/marko-es7) [![Build Status](https://travis-ci.org//marko-es7.svg?branch=master)](https://travis-ci.org//marko-es7) [![Dependency Status](https://david-dm.org//marko-es7.svg?theme=shields.io)](https://david-dm.org//marko-es7) [![Coverage percentage](https://coveralls.io/repos//marko-es7/badge.svg)](https://coveralls.io/r//marko-es7)
 ==========================================================================================================================================================================================================================================================================================================================================================================================================================================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/marko-es7.svg)](https://greenkeeper.io/)
+
 > Marko tags using ES2015 Classes and ES2015 decorators!
 
 From discussion in [Marko issue #91](https://github.com/marko-js/marko-widgets/issues/91#issuecomment-140222488)
