@@ -23,23 +23,23 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "babel": "^5.8.23",
-    "babel-core": "^5.5.0",
+    "babel": "^6.23.0",
+    "babel-core": "^6.24.0",
     "chai": "^3.2.0",
     "gulp": "^3.6.0",
-    "gulp-babel": "^5.1.0",
+    "gulp-babel": "^6.1.2",
     "gulp-coveralls": "^0.1.0",
     "gulp-exclude-gitignore": "^1.0.0",
-    "gulp-istanbul": "^0.9.0",
-    "gulp-jscs": "^1.1.0",
-    "gulp-jshint": "^1.5.3",
-    "gulp-mocha": "^2.0.0",
-    "gulp-nsp": "^0.4.5",
+    "gulp-istanbul": "^1.1.1",
+    "gulp-jscs": "^4.0.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-mocha": "^4.3.0",
+    "gulp-nsp": "^2.4.2",
     "gulp-plumber": "^1.0.0",
-    "jshint-stylish": "^1.0.0"
+    "jshint-stylish": "^2.2.1"
   },
   "dependencies": {
-    "marko": "^2.7.22",
-    "marko-widgets": "^5.0.0"
+    "marko": "^4.2.0",
+    "marko-widgets": "^6.6.0"
   }
 }
